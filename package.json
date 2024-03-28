@@ -1,0 +1,31 @@
+{
+  "name": "notebookrecordapp",
+  "version": "1.0.2",
+  "description": "notebookrecordapp",
+  "type": "module",
+  "main": "notebookrecordapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangbaoluck1/notebookrecordapp"
+  },
+  "website": "https://github.com/wangbaoluck1/notebookrecordapp.git",
+  "keywords": [
+    "notebookrecordapp"
+  ],
+  "author": "wangbaoluck1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangbaoluck1/notebookrecordapp/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wangbaoluck1/notebookrecordapp#readme",
+  "dependencies": {
+    "systemadvises": "1.0.2"
+  }
+}
